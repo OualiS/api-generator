@@ -1,6 +1,6 @@
 <div id="top"></div>
 
-[![Contributors][contributors-shield]][https://github.com/OualiS/api-generator/community_contributors]
+[![Contributors][contributors-shield]][contributors-url]
 <!-- [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
