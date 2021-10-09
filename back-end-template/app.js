@@ -27,7 +27,6 @@ mongoose.set('debug', true);
      process.env.MONGO_URL,
      {
         useNewUrlParser: true,
-        useFindAndModify: false,
         useUnifiedTopology: true
      }).then(test => console.log(chalk.blue(test ? "[MongoDB] Connexion MongoDB établit" : "Connexion MongoDB impossible"))); 
      
