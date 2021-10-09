@@ -1,11 +1,11 @@
 <div id="top"></div>
 
-[![Contributors][contributors-shield]][https://github.com/OualiS/api-generator/community_contributors]
+<!-- [![Contributors][contributors-shield]][https://github.com/OualiS/api-generator/community_contributors]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+[![MIT License][license-shield]][license-url] -->
+[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/salaheddine-ouali/]
 
 
 
@@ -124,9 +124,11 @@ Avoir la dernière version de npm
 
 
 - [] Multi-OS Support
+    - [x] Windows
     - [] Linux
     - [] Mac
 - [] Multi-language Support
+    - [x] French
     - [] English
 
 See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
