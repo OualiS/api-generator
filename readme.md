@@ -13,7 +13,7 @@
 <br />
 <div align="center">
   <a href="">
-    <img src="img/logo_api-generatorlogo.png" alt="Logo" width="80" height="80">
+    <img src="img/logo_api-generator.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">API-GENERATOR</h3>
