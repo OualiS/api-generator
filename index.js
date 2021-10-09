@@ -59,10 +59,7 @@ console.log(
 //   }
 
 generateEnvFile = (jwt_key, mongo_url) => {
-    return `
-    JWT_KEY=${jwt_key}
-    MONGO_URL=${mongo_url}
-                `
+    return `JWT_KEY=${jwt_key}\nMONGO_URL=${mongo_url}`
 }
 
 
