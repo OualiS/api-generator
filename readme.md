@@ -19,7 +19,7 @@
   <h3 align="center">API-GENERATOR</h3>
 
   <p align="center">
-    A simple tool for install a basic API REST
+    A simple tool for installing a basic API REST
     <br />
 </div>
 
