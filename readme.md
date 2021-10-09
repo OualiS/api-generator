@@ -102,8 +102,12 @@ Get the latest version of npm
    npm install
    ```
 3. Install the script globally
-   ```js
+   ```sh
    npm install -g
+   ```
+3. Run the script in the folder you want the api
+   ```sh
+   api-generator
    ```
  
 <p align="right">(<a href="#top">back to top</a>)</p>
