@@ -113,7 +113,7 @@ Avoir la dernière version de npm
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-<img src="images/logo.png" alt="Logo" width="80" height="80">
+<img src="img/api-generator-screenshot.png" alt="Logo" width="80" height="80">
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
