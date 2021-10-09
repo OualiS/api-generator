@@ -130,6 +130,7 @@ Get the latest version of npm
 - [] Multi-language Support
     - [x] French
     - [] English
+- [] HTTPS support
 
 See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
 
@@ -167,7 +168,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+d3Ex2 
 
 Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
 
