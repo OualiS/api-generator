@@ -64,6 +64,10 @@ Une interface vous demandera deux informations :
 * Une clé secrete qui sera utilisé pour générer les tokens d'authentification
 * L'adresse de connexion à votre base de données MongoDB
 
+Features :
+* SignUp, SignIn
+* GetAllUsers, GetOneUser
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
