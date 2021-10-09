@@ -19,7 +19,7 @@
   <h3 align="center">API-GENERATOR</h3>
 
   <p align="center">
-    Un outil simple pour générer rapidement une base d'API REST
+    A simple tool for install a basic API REST
     <br />
 </div>
 
@@ -30,15 +30,15 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">A propos du projet</a>
+      <a href="#about-the-project">About The Project</a>
       <ul>
-        <li><a href="#built-with">Technologies utilisés</a></li>
+        <li><a href="#built-with">Technology used</a></li>
       </ul>
     </li>
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
-        <li><a href="#prerequisites">Pré-requis</a></li>
+        <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
@@ -85,7 +85,7 @@ Voici les instructions à suivre afin d'utiliser cet outil.
 
 ### Prerequisites
 
-Avoir la dernière version de npm
+Get the latest version of npm
 * npm
   ```sh
   npm install npm@latest -g
