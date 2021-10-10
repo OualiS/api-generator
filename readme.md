@@ -176,7 +176,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 d3Ex2 
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+<!-- Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name) -->
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
