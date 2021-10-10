@@ -131,14 +131,14 @@ Get the latest version of npm
 ## Roadmap
 
 
-- [] Multi-OS Support
+- [ ] Multi-OS Support
     - [x] Windows
-    - [] Linux
-    - [] Mac
-- [] Multi-language Support
+    - [ ] Linux
+    - [ ] Mac
+- [ ] Multi-language Support
     - [x] French
-    - [] English
-- [] HTTPS support
+    - [ ] English
+- [ ] HTTPS support
 
 See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
 
